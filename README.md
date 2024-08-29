@@ -1,7 +1,5 @@
 # Responsive Restaurant Website
 
-## [Watch Live](https://007shashi.github.io/Simple-React-Project/)
-
 ### Responsive Restaurant Website
 
 - Responsive Restaurant Website Design Using React JavaScript CSS & HTML
@@ -10,7 +8,7 @@
 - Includes a dark & light theme.
 - Compatible with all mobile devices and with a beautiful and pleasant user interface.
 
-With Love Shashank G💙.
+
 
 ![preview.png](https://github.com/007shashi/Simple-React-Project/blob/main/preview.png)
 
